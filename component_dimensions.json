@@ -226,5 +226,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_footer_component_1721649525.js": {
+        "id": "simple_footer_component-533f7429-8b84-dee8-30c7-d72df7f4fc1b",
+        "name": "simple_footer_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "20",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
