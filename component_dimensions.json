@@ -150,5 +150,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_hero_component_1721649493.js": {
+        "id": "simple_hero_component-6e0cb2fe-4d43-0b88-ce47-911f067697d4",
+        "name": "simple_hero_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "100",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
