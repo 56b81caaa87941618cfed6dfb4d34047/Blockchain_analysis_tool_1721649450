@@ -188,5 +188,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_footer_component_1721649510.js": {
+        "id": "simple_footer_component-36ebc0d4-c1ec-ea05-4ed3-75698552131f",
+        "name": "simple_footer_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "20",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
