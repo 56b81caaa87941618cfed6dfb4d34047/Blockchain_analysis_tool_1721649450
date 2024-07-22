@@ -283,5 +283,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "fixed_left_side_hero_component_1721649544.js": {
+        "id": "fixed_left_side_hero_component-a98fc927-562c-8f5c-d8e5-c30fb54db797",
+        "name": "fixed_left_side_hero_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
