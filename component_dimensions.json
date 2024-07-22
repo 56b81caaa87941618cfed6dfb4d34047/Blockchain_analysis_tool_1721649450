@@ -245,5 +245,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "newsletter_form_with_a_gradient_background_1721649531.js": {
+        "id": "newsletter_form_with_a_gradient_background-45028c47-8997-c091-e940-a76bca5f7ef2",
+        "name": "newsletter_form_with_a_gradient_background",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
