@@ -264,5 +264,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "search_input_1721649537.js": {
+        "id": "search_input-f4af2b15-a89e-87e2-871b-87f6d0789f54",
+        "name": "search_input",
+        "type": "markdown",
+        "metadata": {},
+        "w": 4,
+        "h": 4,
+        "x": "30",
+        "y": "30",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
